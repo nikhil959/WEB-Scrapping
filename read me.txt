@@ -1,0 +1,7 @@
+How to run this project?
+
+step 1 : run the command pip install -r requirments.txt
+step 2 : python get_data.py
+step 3 : Enter the number to be started.
+step 4 : Enter the number to be ended.
+step 5 : if it gets disconnect in middle again follow form step 2 and start with the number where it failed getting data.
